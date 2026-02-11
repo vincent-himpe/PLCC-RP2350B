@@ -1,0 +1,152 @@
+Removed Pin From Net: NetName=P3V3 Pin=C24-1
+Removed Pin From Net: NetName=XIN Pin=C25-1
+Removed Pin From Net: NetName=P1V1 Pin=C30-1
+Removed Pin From Net: NetName=GND Pin=C30-2
+Removed Pin From Net: NetName=P3V3 Pin=C34-1
+Removed Pin From Net: NetName=GND Pin=C34-2
+Removed Pin From Net: NetName=VBUS Pin=C40-1
+Removed Pin From Net: NetName=GND Pin=C40-2
+Removed Pin From Net: NetName=RST Pin=J6-1
+Removed Pin From Net: NetName=GND Pin=J7-2
+Removed Pin From Net: NetName=VBUS Pin=J8-2
+Removed Pin From Net: NetName=NetC35_1 Pin=K1-1
+Removed Pin From Net: NetName=GND Pin=K1-2
+Removed Pin From Net: NetName=P1V1 Pin=L2-1
+Removed Pin From Net: NetName=BOOT Pin=SW1-2
+Removed Pin From Net: NetName=GND Pin=SW1-3
+Removed Pin From Net: NetName=GND Pin=U1-62
+Removed Pin From Net: NetName=P3V3 Pin=U1-64
+Removed Pin From Net: NetName=P1V1 Pin=U1-65
+Removed Pin From Net: NetName=VREF Pin=U4-1
+Removed Pin From Net: NetName=GND Pin=U4-2
+Removed Pin From Net: NetName=GND Pin=U4-3
+Removed Pin From Net: NetName=VBUS Pin=U9-1
+Removed Pin From Net: NetName=GND Pin=U9-2
+Removed Pin From Net: NetName=VBUS Pin=U9-3
+Removed Member From Class: ClassName=PLCC-RP2350B Member=C30
+Removed Member From Class: ClassName=PLCC-RP2350B Member=C34
+Removed Member From Class: ClassName=PLCC-RP2350B Member=C40
+Removed Member From Class: ClassName=PLCC-RP2350B Member=J6
+Removed Member From Class: ClassName=PLCC-RP2350B Member=J7
+Removed Member From Class: ClassName=PLCC-RP2350B Member=J8
+Removed Member From Class: ClassName=PLCC-RP2350B Member=K1
+Removed Member From Class: ClassName=PLCC-RP2350B Member=L2
+Removed Member From Class: ClassName=PLCC-RP2350B Member=R1
+Removed Member From Class: ClassName=PLCC-RP2350B Member=R10
+Removed Member From Class: ClassName=PLCC-RP2350B Member=SW1
+Removed Member From Class: ClassName=PLCC-RP2350B Member=U4
+Removed Member From Class: ClassName=PLCC-RP2350B Member=U9
+Change Component Footprint: Designator=C24 Old Footprint=CAPC0603 New Footprint=CAPC0402
+Change Component Comment : Designator=C24 Old Comment=CAP0603 New Comment=CAP0402
+Change Component Comment : Designator=C25 Old Comment=CAP0603 New Comment=CAP0402
+Change Component Comment : Designator=C26 Old Comment=CAP0603 New Comment=CAP0402
+Change component parameters: Designator = "C24" ("C24"); Footprint = "CAPC0603"; UniqueID = "\UCDAFEBT" ("\UCDAFEBT")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "4u7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C1705"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1482-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C25" ("C25"); Footprint = "CAPC0402"; UniqueID = "\GTEWIZLG" ("\GTEWIZLG")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C60474"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1292-1630-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C26" ("C26"); Footprint = "CAPC0402"; UniqueID = "\FZENCLAE" ("\FZENCLAE")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "4u7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C1705"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1482-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=J2(CONN-DIP64-SOCKET)
+Added Component: Designator=LOGO1(LOGO-LICENSE-CC0-PUBLIC)
+Added Component: Designator=LOGO2(LOGO-LICENSE-CC)
+Added Pin To Net: NetName=VBUS Pin=C1-1
+Added Pin To Net: NetName=VBUS Pin=C2-1
+Added Pin To Net: NetName=P1V1 Pin=C24-1
+Added Pin To Net: NetName=P1V1 Pin=C25-1
+Added Pin To Net: NetName=P1V1 Pin=C26-1
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=P3V3OUT Pin=J2-2
+Added Pin To Net: NetName=RST Pin=J2-3
+Added Pin To Net: NetName=VREF Pin=J2-4
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Pin To Net: NetName=GP0 Pin=J2-6
+Added Pin To Net: NetName=GP1 Pin=J2-7
+Added Pin To Net: NetName=GP2 Pin=J2-8
+Added Pin To Net: NetName=GP3 Pin=J2-9
+Added Pin To Net: NetName=GP4 Pin=J2-10
+Added Pin To Net: NetName=GP5 Pin=J2-11
+Added Pin To Net: NetName=GP6 Pin=J2-12
+Added Pin To Net: NetName=GP7 Pin=J2-13
+Added Pin To Net: NetName=GP8 Pin=J2-14
+Added Pin To Net: NetName=GP9 Pin=J2-15
+Added Pin To Net: NetName=GP10 Pin=J2-16
+Added Pin To Net: NetName=GP11 Pin=J2-17
+Added Pin To Net: NetName=GP12 Pin=J2-18
+Added Pin To Net: NetName=GP13 Pin=J2-19
+Added Pin To Net: NetName=GP14 Pin=J2-20
+Added Pin To Net: NetName=GP15 Pin=J2-21
+Added Pin To Net: NetName=GP16 Pin=J2-22
+Added Pin To Net: NetName=GP17 Pin=J2-23
+Added Pin To Net: NetName=GP18 Pin=J2-24
+Added Pin To Net: NetName=GP19 Pin=J2-25
+Added Pin To Net: NetName=GP20 Pin=J2-26
+Added Pin To Net: NetName=GP21 Pin=J2-27
+Added Pin To Net: NetName=GP22 Pin=J2-28
+Added Pin To Net: NetName=GP23 Pin=J2-29
+Added Pin To Net: NetName=SCL Pin=J2-30
+Added Pin To Net: NetName=SDA Pin=J2-31
+Added Pin To Net: NetName=P3V3 Pin=J2-32
+Added Pin To Net: NetName=GND Pin=J2-33
+Added Pin To Net: NetName=RTCINT Pin=J2-34
+Added Pin To Net: NetName=EXTVBAT Pin=J2-35
+Added Pin To Net: NetName=GP24 Pin=J2-36
+Added Pin To Net: NetName=GP25 Pin=J2-37
+Added Pin To Net: NetName=GP26 Pin=J2-38
+Added Pin To Net: NetName=GP27 Pin=J2-39
+Added Pin To Net: NetName=GP28 Pin=J2-40
+Added Pin To Net: NetName=GP29 Pin=J2-41
+Added Pin To Net: NetName=GP30 Pin=J2-42
+Added Pin To Net: NetName=GP31 Pin=J2-43
+Added Pin To Net: NetName=GP32 Pin=J2-44
+Added Pin To Net: NetName=GP33 Pin=J2-45
+Added Pin To Net: NetName=GP34 Pin=J2-46
+Added Pin To Net: NetName=GP35 Pin=J2-47
+Added Pin To Net: NetName=GP36 Pin=J2-48
+Added Pin To Net: NetName=GP37 Pin=J2-49
+Added Pin To Net: NetName=GP38 Pin=J2-50
+Added Pin To Net: NetName=GP39 Pin=J2-51
+Added Pin To Net: NetName=GP40 Pin=J2-52
+Added Pin To Net: NetName=GP41 Pin=J2-53
+Added Pin To Net: NetName=GP42 Pin=J2-54
+Added Pin To Net: NetName=GP43 Pin=J2-55
+Added Pin To Net: NetName=GP44 Pin=J2-56
+Added Pin To Net: NetName=GP45 Pin=J2-57
+Added Pin To Net: NetName=GP46 Pin=J2-58
+Added Pin To Net: NetName=GP47 Pin=J2-59
+Added Pin To Net: NetName=GND Pin=J2-60
+Added Pin To Net: NetName=P3V3 Pin=J2-61
+Added Pin To Net: NetName=BOOT Pin=J2-62
+Added Pin To Net: NetName=VBUS Pin=J2-63
+Added Pin To Net: NetName=VBUS Pin=J2-64
+Added Pin To Net: NetName=VRA Pin=U1-64
+Added Pin To Net: NetName=VBUS Pin=U2-2
+Added Pin To Net: NetName=VBUS Pin=U2-3
+Added Pin To Net: NetName=RST Pin=U8-4
+Added Pin To Net: NetName=SWCLK Pin=U1-33
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWD Pin=U1-34
+Added Net: Name=SWD
+Added Member To Class: ClassName=PLCC-RP2350B Member=Component J2 CONN-DIP64-SOCKET
+Added Member To Class: ClassName=PLCC-RP2350B Member=Component LOGO1 LOGO-LICENSE-CC0-PUBLIC
+Added Member To Class: ClassName=PLCC-RP2350B Member=Component LOGO2 LOGO-LICENSE-CC
